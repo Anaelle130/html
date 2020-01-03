@@ -1,11 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>My fisrt Html page</title>
+	<title>My fisrt Html page</title>
 </head>
-  <body>
+<body>
 
-  <h1><FONT face="Montserrat"><FONT size="6">Salut ! ! !</FONT><BR> </FONT><BR></h1>
-	<p><FONT face="Montserrat"><FONT size="4">Comment ça va ? ? ?</FONT><BR> </FONT><BR></p>
-  </body>
+	<h1>
+  		<FONT face="Montserrat">
+			<FONT size="6">Salut ! ! !</FONT>
+			<BR>
+		</FONT>
+		<BR>
+	</h1>
+	<p>
+		<FONT face="Montserrat">
+			<FONT size="4">Comment ça va ? ? ?</FONT>
+			<BR>
+		</FONT>
+		<BR>
+	</p>
+
+</body>
 </html>
